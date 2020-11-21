@@ -97,7 +97,7 @@ img {
 /* about section */
 
 .about-section {
-    background-color: #3FACCA;
+    background-color: rgb(63, 112, 202);
     padding: 10px;
 }
 
@@ -141,7 +141,7 @@ img {
 }
 
 .contact-button-item {
-    background-color: #3FACCA;
+    background-color: rgb(63, 119, 202);
     width: 150px;
     height: 50px;
     border-radius: 10px;
@@ -166,7 +166,7 @@ img {
 /* projects section */
 
 .projects-section {
-    background-color: #3FACCA;
+    background-color: rgb(63, 112, 202);
 }
 
 .project-group {
@@ -216,7 +216,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #3FACCA;
+    background-color: rgb(63, 95, 202);
     margin: 20px;
     border-radius: 10px;
     height: 30px;
@@ -252,7 +252,7 @@ form input {
 .form-group {
     display: flex;
     flex-direction: column;
-    background-color: #3FACCA;
+    background-color: rgb(63, 84, 202);
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
@@ -321,7 +321,7 @@ form button {
     }
 
     header {
-        background-color: #718798;
+        background-color: #698092;
         display: flex;
         justify-content: space-between;
         padding: 0 30px 0px 30px;
@@ -392,7 +392,7 @@ form button {
     /* about section */
 
     .about-section {
-        background-color: #3FACCA;
+        background-color: rgb(63, 123, 202);
         padding:20px;
     }
 
@@ -435,7 +435,7 @@ form button {
     }
 
     .contact-button-item {
-        background-color: #3FACCA;
+        background-color: rgb(63, 84, 202);
         width: 100px;
         height: 50px;
         border-radius: 10px;
@@ -466,7 +466,7 @@ form button {
     /* projects section */
 
     .projects-section {
-        background-color: #3FACCA;
+        background-color: rgb(63, 119, 202);
     }
 
     .project-group {
@@ -516,7 +516,7 @@ form button {
         display: flex;
         justify-content: center;
         align-items: center;
-        background-color: #3FACCA;
+        background-color: rgb(63, 100, 202);
         margin: 20px;
         border-radius: 10px;
         height: 30px;
@@ -566,7 +566,7 @@ form input {
 .form-group {
     display: flex;
     flex-direction: column;
-    background-color: #3FACCA;
+    background-color: rgb(63, 107, 202);
     min-width: 700px;
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
